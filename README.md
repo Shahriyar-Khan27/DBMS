@@ -42,16 +42,16 @@ Welcome to **Test Your Knowledge**, a platform designed to enhance learning thro
 
 The following images and files are included in the project:
 
-- **ABC.jpg**  
+- **[ABC.jpg](https://github.com/Shahriyar-Khan27/PROJECT-WEB-DB/blob/main/ABC.jpg)**  
   Image file for usage in the UI.
 
-- **EFG.webp**  
+- **[EFG.webp](https://raw.githubusercontent.com/Shahriyar-Khan27/PROJECT-WEB-DB/refs/heads/main/EFG.webp)**  
   Image used in the user interface.
 
-- **bg.jpg**  
+- **[bg.jpg](https://github.com/Shahriyar-Khan27/PROJECT-WEB-DB/blob/main/bg.jpg)**  
   Background image used in the homepage.
 
-- **bg1.jpg**  
+- **[bg1.jpg](https://github.com/Shahriyar-Khan27/PROJECT-WEB-DB/blob/main/bg1.jpg)**  
   Another background image used in specific sections.
 
 - **bootstrap-theme.min.css**  
@@ -63,7 +63,7 @@ The following images and files are included in the project:
 - **bootstrap.min.js**  
   Bootstrap JS file for interactive elements.
 
-- **cd-icon-menu.svg**  
+- **[cd-icon-menu.svg](https://github.com/Shahriyar-Khan27/PROJECT-WEB-DB/blob/main/cd-icon-menu.svg)**  
   Icon used for the navigation menu.
 
 - **dbConnection.php**  
