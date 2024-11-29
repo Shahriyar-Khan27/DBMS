@@ -38,7 +38,64 @@ Welcome to **Test Your Knowledge**, a platform designed to enhance learning thro
   Runs on Apache server using XAMPP or WAMP for local hosting.
 
 ---
+## 🖼️ Images and Files
 
+The following images and files are included in the project:
+
+- **ABC.jpg**  
+  Image file for usage in the UI.
+
+- **EFG.webp**  
+  Image used in the user interface.
+
+- **bg.jpg**  
+  Background image used in the homepage.
+
+- **bg1.jpg**  
+  Another background image used in specific sections.
+
+- **bootstrap-theme.min.css**  
+  Bootstrap theme for styling.
+
+- **bootstrap.min.css**  
+  Bootstrap CSS file for responsive design.
+
+- **bootstrap.min.js**  
+  Bootstrap JS file for interactive elements.
+
+- **cd-icon-menu.svg**  
+  Icon used for the navigation menu.
+
+- **dbConnection.php**  
+  File for establishing a connection to the MySQL database.
+
+- **index.php**  
+  Home page of the application.
+
+- **login.php**  
+  User login logic for authentication.
+
+- **logout.php**  
+  User logout functionality.
+
+- **main.css**  
+  Custom core CSS file for the site styling.
+
+- **main.js**  
+  Main JavaScript file for interactivity.
+
+- **modernizr.js**  
+  JavaScript library for feature detection.
+
+- **project.sql**  
+  SQL file containing the database structure and sample data.
+
+- **sign.php**  
+  User registration page.
+
+- **feedback.php**  
+  Page for submitting feedback.
+--------
 ## 📦 File Structure
 
 ```plaintext
